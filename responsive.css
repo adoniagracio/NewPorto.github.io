@@ -1,0 +1,112 @@
+@media screen and (max-width: 1300px) {
+
+    .mainmenutranslationXafter{
+        transform: translateX(-1800px);
+    }
+    .i-am-jay.namemainmenutranslationXafter{
+        transform: translateX(-1550px);
+    }
+    .i-am-jay{
+        font-size: 40px;
+        left: 450px;
+    }
+    .box-skills-list{
+        justify-content: center;
+        width: 80%;
+    }
+    .box-skills{
+        width: 200px;
+        height: 105px;
+    }
+    .my-project{
+        left: 1740px;
+    }
+    .arrow-project{
+        right: 590px;
+        width: 1200px;
+    }
+    .my-experiance{
+        left: 1739px;
+    }
+
+}
+
+@media screen and (max-width: 752px) {
+    .earth-image{
+        width: 125vh;
+        left: -180px;
+    }
+    .contact-me{
+        font-size: 30px;
+    }
+    .press{
+        opacity: 0;
+    }
+    .scroll{
+        opacity: 0;
+    }
+    .box-skills-list{
+        justify-content: center;
+        width: 70%;
+    }
+    .box-skills{
+        width: 100px;
+        height: 80px;
+        font-size: 20px;
+    }
+    .my-project{
+        left: 1400px;
+    }
+    .arrow-project{
+        right: 210px;
+        width: 710px;
+    }
+    .my-experiance{
+        left: 1389px;
+    }
+    .description{
+        font-size: 20px;
+    }
+    .mainmenutranslationXafter{
+        transform: translateX(-2000px);
+    }
+    .i-am-jay.namemainmenutranslationXafter{
+        transform: translateX(-1820px);
+    }
+    .contact-form form{
+        width: 650px;
+        margin-left: 50px;
+    }
+    .send{
+        margin-left: 125px;
+    }
+
+    .hello-fellow-galaxy{
+        font-size: 38px;
+        left: 138px;
+    }
+    .frame-child{
+        width: 310px;
+    }
+    .vector-parent{
+        left: 137px;
+    }
+    .a-message-from-earth-parent{
+        top: 89px;
+        left: 137px;
+    }
+    .i-am-jay{
+        font-size: 30px;
+        left: 200px;
+    }
+    .mainmenutranslationXafter{
+        transform: translateX(-2075px);
+    }
+    .i-am-jay.namemainmenutranslationXafter{
+        transform: translateX(-1800px);
+    }
+    
+}
+
+@media screen and (max-width: 362px) {
+}

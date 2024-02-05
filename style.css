@@ -44,7 +44,7 @@ body {
 .earth-image{
     width: 80%;
     position: absolute;
-    top: 474px;
+    top: 508px;
     left: 188px;
     overflow: hidden;   
     transition: transform 1s ease-in, opacity 1s ease;
